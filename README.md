@@ -10,7 +10,7 @@
 🌱 I’m currently learning Spatial Indexing
 
   ## 🌟 Featured Projects
-- BFSI project of ICICI Bank
+- BFSI project of ICICI Bank(Location intelligence)
 - Land Record Mapping System-Comprehensive GIS project for land record mapping and management.
 - 'Slum to Livable Habitat (JAGA) Mission'-Spearheaded initiatives to transform slums into sustainable, livable habitats with modern amenities by integrating geospatial data, implementing land management solutions, and collaborating with government bodies to ensure project success
 - Land Use and Land Cover (LULC) & Land Management System for SAIL and Burn Standard
