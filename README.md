@@ -1,7 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjib0008&color=blue)
 ## Hi there 👋 I'm Sanjib Manna 🌍🗺
 
-🎓 **Data Analytics & GIS Specialist** with over 13 years of experience in geospatial analysis(Location intelligence), data modeling, and project management.
+🎓 **Data Analyst with 1.5 years of experience in data analysis and 12 years of experience in geospatial analysis(Location intelligence),Proficient in SQL, Python, Power
+BI, Excel, GIS Software and project management**
 
 ## 🔧 Technologies & Skills
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-FFC300?style=flat&logo=powerbi&logoColor=black),![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white),![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![ArcGIS](https://img.shields.io/badge/ArcGIS-009EE0?style=flat&logo=esri&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-66B2B2?style=flat&logo=qgis&logoColor=white)
