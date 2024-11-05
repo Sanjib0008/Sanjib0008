@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjib0008&color=blue)
 ## Hi there 👋 I'm Sanjib Manna 🌍🗺
 
-🎓 **Data Analyst with more than 2 years of experience in data analysis and 12 years of experience in geospatial analysis(Location intelligence),Proficient in SQL, Python, Power
+🎓 **Data Analyst with more than 2 years of experience in data analysis and overall 13+ years of experience in geospatial analysis(Location intelligence),Proficient in SQL, Python, Power
 BI, Excel, GIS Software and project management**
 
 ## 🔧 Technologies & Skills
